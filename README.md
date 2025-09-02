@@ -1,4 +1,6 @@
-# 🔋 IEEE Battery Temperature Prediction Using Deep Learning and Transformers
+## 🔋 IEEE Battery Temperature Prediction Using Deep Learning and Transformers
+
+<img width="645" height="878" alt="Image" src="https://github.com/user-attachments/assets/0b6c0730-e597-423e-b7e9-1e20c3ce9375" />
 
 This repository contains the implementation and analysis of deep learning models for accurate **temperature prediction of Panasonic 18650PF Lithium-Ion cells**, based on **Electrochemical Impedance Spectroscopy (EIS)** data collected at varying ambient temperatures. This work was made **by me** and was also published in **IEEE** with the best paper award as **first author**. 
 
